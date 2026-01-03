@@ -1,9 +1,17 @@
 1-Quais matérias estou matriculado?
-matricula-12345 (Felipe)
+matricula
+=12345
+Nome: Felipe
+
+Matérias
 Matemática
 Português
 
-matricula-67891 (Bianca)
+matricula
+=67891
+Nome: Bianca
+
+Matérias
 Inglês
 Espanhol
 
@@ -16,3 +24,4 @@ matricula-67891 (Bianca)
 Inglês - 6,2
 
 Espanhol - Sem nota atribuída
+
