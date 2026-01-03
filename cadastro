@@ -1,27 +1,13 @@
 1-Quais matérias estou matriculado?
-matricula
-=12345
-Nome: Felipe
+2023001=Matérias: Matemática, Português
 
-Matérias
-Matemática
-Português
-
-matricula
-=67891
-Nome: Bianca
-
-Matérias
-Inglês
-Espanhol
+2023002=Matérias: História, Geografia
 
 2-Quais minhas notas no sistema?
-matricula-12345 (Felipe)
-Matemática - 7,5
-Português - 8,9
+2023001=Notas: Matemática, Português
+Notas: Matemática 8, Português 7
 
-matricula-67891 (Bianca)
-Inglês - 6,2
+2023002=Notas: História, Geografia
+Notas: História 9, Geografia sem nota atribuida
 
-Espanhol - Sem nota atribuída
 
